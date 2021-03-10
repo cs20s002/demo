@@ -1,3 +1,3 @@
-print("hello world")
+print("hello wrold")
 
-print("yash")
+print("yash Madhani")
